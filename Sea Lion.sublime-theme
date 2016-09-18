@@ -695,7 +695,7 @@
     },
     {
         "class": "button_control",
-        "content_margin": [6, 5, 6, 6],
+        "content_margin": [6, 6, 6, 5],
         "min_size": [60, 0],
         "layer0.texture": "Theme - Sea Lion/Sea Lion/btn-large.png",
         "layer0.opacity": 1.0,
@@ -710,7 +710,7 @@
         "class": "text_line_control",
         "layer0.texture": "Theme - Sea Lion/Sea Lion/text-field.png",
         "layer0.opacity": 1.0,
-        "layer0.inner_margin": [4, 5, 4, 3],
+        "layer0.inner_margin": [4, 4, 4, 4],
         "content_margin": [4, 5, 4, 4]
     },
     {
