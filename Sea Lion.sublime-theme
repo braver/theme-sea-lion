@@ -854,44 +854,31 @@
     },
     {
         "class": "icon_button_control",
-        "attributes": ["selected"],
-        "layer0.opacity": 0,
+        "attributes": ["selected"]
     },
     {
         "class": "icon_button_control",
-        "attributes": ["left"],
-        "layer0.texture": "",
-        "layer0.opacity": 0,
-        "content_margin": [4, 3, 3, 3]
+        "attributes": ["left"]
     },
     {
         "class": "icon_button_control",
-        "attributes": ["left", "selected"],
-        "layer0.opacity": 0,
+        "attributes": ["left", "selected"]
     },
     {
         "class": "icon_button_control",
-        "attributes": ["right"],
-        "layer0.opacity": 0.0,
-        "layer0.texture": "",
-        "content_margin": [3, 3, 4, 3]
+        "attributes": ["right"]
     },
     {
         "class": "icon_button_control",
-        "attributes": ["right", "selected"],
-        "layer0.opacity": 0,
+        "attributes": ["right", "selected"]
     },
     {
         "class": "icon_button_control",
-        "attributes": ["left", "right"],
-        "layer0.opacity": 0.0,
-        "layer0.texture": "",
-        "content_margin": [4, 3]
+        "attributes": ["left", "right"]
     },
     {
         "class": "icon_button_control",
-        "attributes": ["left", "right", "selected"],
-        "layer0.opacity": 0,
+        "attributes": ["left", "right", "selected"]
     },
     {
         "class": "panel_close_button",
