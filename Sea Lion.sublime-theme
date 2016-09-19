@@ -360,7 +360,7 @@
     {
         "class": "puck_control",
         "layer0.texture": "Theme - Sea Lion/Sea Lion/standard-puck-vertical.png",
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 0.5,
         "layer0.inner_margin": [0, 10],
         "content_margin": [4, 12],
         "blur": false
@@ -752,7 +752,7 @@
     {
         "class": "panel_button_control",
         "layer0.texture": "Theme - Sea Lion/Sea Lion/panels.png",
-        "layer0.opacity": 0.5,
+        "layer0.opacity": 0.8,
         "content_margin": [12, 8]
     },
     {
