@@ -519,15 +519,14 @@
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [1, 1, 2, 1],
         "layer0.texture": "Theme - Sea Lion/Sea Lion/sidebar-bg.png",
-        "content_margin": [0, 0, 1, 0]
-
+        "content_margin": [0, 3, 1, 0]
     },
     {
         "class": "sidebar_tree",
-        "row_padding": [6, 6],
+        "row_padding": [8, 6],
         "indent": 16,
-        "indent_offset": 16,
-        "indent_top_level": false
+        "indent_offset": 14,
+        "indent_top_level": false,
     },
     {
         "class": "tree_row",
