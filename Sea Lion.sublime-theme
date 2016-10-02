@@ -688,9 +688,7 @@
         "content_margin": [0, 0]
     },
     {
-        "class": "icon_folder_loading",
-        "layer0.opacity": 0.8,
-        "content_margin": [8, 8]
+        "class": "icon_folder_loading"
     },
     {
         "class": "button_control",
@@ -736,7 +734,7 @@
         "layer0.texture": "Theme - Sea Lion/Sea Lion/panel-background.png",
         "layer0.inner_margin": [2, 2, 2, 2],
         "layer0.opacity": 1.0,
-        "content_margin": [0, 1]
+        "content_margin": [0, 0, 0, 1]
     },
     {
         "class": "overlay_control",
