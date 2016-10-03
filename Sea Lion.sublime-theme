@@ -739,7 +739,7 @@
     {
         "class": "overlay_control",
         "layer0.texture": "Theme - Sea Lion/Sea Lion/overlay-bg.png",
-        "layer0.inner_margin": [12, 0, 12, 20],
+        "layer0.inner_margin": [12, 1, 12, 20],
         "layer0.opacity": 1.0,
         "layer1.texture": "",
         "layer1.inner_margin": [12, 20, 12, 19],
