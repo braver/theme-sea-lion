@@ -7,4 +7,4 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 * Open your User Settings Preferences
 * Add (or update) your theme entry to be `"theme": "Theme - Sea Lion.sublime-theme"`
 
-![](https://github.com/braver/theme-sea-lion/blob/master/screenshot.png)
+![](https://raw.githubusercontent.com/braver/theme-sea-lion/master/screenshot.png)
