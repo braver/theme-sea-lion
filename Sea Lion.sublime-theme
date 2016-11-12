@@ -273,58 +273,52 @@
         "class": "show_tabs_dropdown_button",
         "content_margin": [9, 7, 8, 6],
         "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-list.png",
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 0.6,
         "layer0.inner_margin": 0
     },
     {
         "class": "show_tabs_dropdown_button",
         "attributes": ["hover"],
         "layer0.opacity": 1.0,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-list-hover.png"
     },
     {
         "class": "show_tabs_dropdown_button",
         "attributes": ["pressed"],
         "layer0.opacity": 0.8,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-list-hover.png"
     },
     {
         "class": "scroll_tabs_left_button",
         "content_margin": [9, 7, 8, 6],
         "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-left.png",
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 0.6,
         "layer0.inner_margin": 0
     },
     {
         "class": "scroll_tabs_left_button",
         "attributes": ["hover"],
         "layer0.opacity": 1.0,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-left-hover.png"
     },
     {
         "class": "scroll_tabs_left_button",
         "attributes": ["pressed"],
         "layer0.opacity": 0.8,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-left-hover.png"
     },
     {
         "class": "scroll_tabs_right_button",
         "content_margin": [9, 7, 8, 6],
         "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-right.png",
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 0.6,
         "layer0.inner_margin": 0
     },
     {
         "class": "scroll_tabs_right_button",
         "attributes": ["hover"],
         "layer0.opacity": 1.0,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-right-hover.png"
     },
     {
         "class": "scroll_tabs_right_button",
         "attributes": ["pressed"],
         "layer0.opacity": 0.8,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/tabset-right-hover.png"
     },
     {
         "class": "fold_button_control",
