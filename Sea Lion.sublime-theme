@@ -2,7 +2,7 @@
     {
         "class": "tabset_control",
         "layer0.opacity": 1.0,
-        "layer1.opacity": 1.0,
+        "layer1.opacity": 0.6,
         "layer1.tint": [246,246,246],
         "layer2.texture": "Theme - Sea Lion/Sea Lion/tabset-background.png",
         "layer2.inner_margin": [1, 7],
