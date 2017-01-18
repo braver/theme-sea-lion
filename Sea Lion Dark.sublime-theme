@@ -804,7 +804,7 @@
         "fg": [130, 130, 130, 255],
         "match_fg": [119, 119, 119, 255],
         "selected_fg": [119, 119, 119, 255],
-        "selected_match_fg": [79, 79, 79, 255],
+        "selected_match_fg": [160, 160, 160, 255],
     },
     {
         "class": "quick_panel_path_label",
