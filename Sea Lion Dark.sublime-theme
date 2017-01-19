@@ -543,7 +543,7 @@
     },
     {
         "class": "sidebar_tree",
-        "row_padding": [8, 6],
+        "row_padding": [8, 4],
         "indent": 16,
         "indent_offset": 14,
         "indent_top_level": false,
@@ -552,7 +552,7 @@
         "class": "tree_row",
         "layer0.texture": "",
         "layer0.opacity": 0.0,
-        "layer0.inner_margin": [6, 2, 6, 2]
+        "layer0.inner_margin": [4, 2, 4, 2]
     },
     {
         "class": "tree_row",
