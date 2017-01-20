@@ -668,10 +668,7 @@
     },
     {
         "class": "disclosure_button_control",
-        "parents": [{
-            "class": "tree_row",
-            "attributes": ["hover"]
-        }],
+        "parents": [{"class": "tree_row", "attributes": ["hover"]}],
         "layer0.opacity": 1.0,
         "layer0.texture": "Theme - Sea Lion/Sea Lion Dark/group-closed.png"
     },
