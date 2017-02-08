@@ -191,7 +191,9 @@
     {
         "class": "tab_label",
         "fg": [119, 119, 119, 255],
-        "font.italic": false
+        "font.italic": false,
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "tab_label",
@@ -481,11 +483,13 @@
     },
     {
         "class": "label_control",
-        "color": [182, 182, 182]
+        "color": [182, 182, 182],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 12
     },
     {
         "class": "label_control",
-        "parents": [{"class": "panel_control"}],
+        "parents": [{"class": "panel_control"}]
     },
     {
         "class": "label_control",
@@ -527,12 +531,17 @@
         "layer0.draw_center": false,
         "layer0.inner_margin": [1, 0, 0, 0],
         "content_margin": [6, 2, 6, 3],
-        "min_size": [80, 0]
+        "min_size": [80, 0],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "label_control",
         "parents": [{"class": "status_bar"}],
         "color": [120, 120, 120, 255],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
+
     },
     {
         "class": "sidebar_container",
@@ -566,6 +575,8 @@
         "class": "sidebar_heading",
         "color": [119, 119, 119],
         "font.bold": true,
+        "font.face": ".SFNSText-Bold",
+        "font.size": 12
     },
     {
         "class": "sidebar_heading",
@@ -576,7 +587,9 @@
         "class": "sidebar_label",
         "color": [119, 119, 119],
         "font.bold": false,
-        "font.italic": false
+        "font.italic": false,
+        "font.face": ".SFNSText-Regular",
+        "font.size": 12
     },
     {
         "class": "sidebar_label",
@@ -801,6 +814,8 @@
         "match_fg": [119, 119, 119, 255],
         "selected_fg": [119, 119, 119, 255],
         "selected_match_fg": [68, 68, 68, 255],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "quick_panel_path_label",
@@ -808,11 +823,15 @@
         "match_fg": [160, 160, 160, 255],
         "selected_fg": [160, 160, 160, 255],
         "selected_match_fg": [119, 119, 119, 255],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "quick_panel_score_label",
         "fg": [200, 200, 200, 255],
-        "selected_fg": [59, 153, 252, 255]
+        "selected_fg": [59, 153, 252, 255],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "mini_quick_panel_row",
@@ -845,7 +864,7 @@
         "fg": [160, 160, 160, 255],
         "match_fg": [119, 119, 119, 255],
         "selected_fg": [119, 119, 119, 255],
-        "selected_match_fg": [68, 68, 68, 255],
+        "selected_match_fg": [68, 68, 68, 255]
     },
     {
         "class": "table_row",
