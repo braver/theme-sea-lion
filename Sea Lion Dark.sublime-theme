@@ -481,7 +481,7 @@
     },
     {
         "class": "label_control",
-        "color": [182, 182, 182]
+        "color": [90, 90, 90]
     },
     {
         "class": "label_control",
@@ -500,7 +500,15 @@
             "class": "button_control",
             "attributes": ["hover"]
         }],
-        "color": [119, 119, 119]
+        "color": [182, 182, 182]
+    },
+    {
+        "class": "label_control",
+        "parents": [{
+            "class": "button_control",
+            "attributes": ["pressed"]
+        }],
+        "color": [182, 182, 182]
     },
     {
         "class": "tool_tip_control",
