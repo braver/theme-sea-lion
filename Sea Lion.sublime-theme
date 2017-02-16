@@ -9,11 +9,16 @@
         "layer2.opacity": 1.0,
         "tint_index": 0,
         "content_margin": [-5, 0, -5, 0],
-        "tab_overlap": 5,
+        "tab_overlap": 0,
         "tab_width": 180,
         "tab_min_width": 45,
         "tab_height": 32,
         "mouse_wheel_switch": false
+    },
+    {
+        "class": "tabset_control",
+        "settings": ["mouse_wheel_switches_tabs", "!enable_tab_scrolling"],
+        "mouse_wheel_switch": true
     },
     {
         "class": "tabset_control",
@@ -35,15 +40,10 @@
         "content_margin": [3, 0, 3, 0]
     },
     {
-        "class": "tabset_control",
-        "settings": ["mouse_wheel_switches_tabs"],
-        "mouse_wheel_switch": true
-    },
-    {
         "class": "tab_control",
         "content_margin": [12, 3, 12, 3],
-        "max_margin_trim": 0,
-        "hit_test_level": 0.0,
+        "max_margin_trim": 4,
+        "hit_test_level": 0,
 
         "tint_index": 0,
         "layer0.opacity": 0,
