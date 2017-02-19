@@ -533,7 +533,7 @@
         "layer0.texture": "Theme - Sea Lion/Sea Lion/status-bar-background.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2],
-        "content_margin": [8, 2, 8, 1]
+        "content_margin": [8, 2, 8, 2]
     },
     {
         "class": "status_button",
@@ -541,8 +541,8 @@
         "layer0.opacity": 1.0,
         "layer0.draw_center": false,
         "layer0.inner_margin": [1, 0, 0, 0],
-        "content_margin": [6, 2, 6, 3],
-        "min_size": [80, 0]
+        "content_margin": [8, 1, 8, 2],
+        "min_size": [60, 0]
     },
     {
         "class": "label_control",
