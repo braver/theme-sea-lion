@@ -9,3 +9,20 @@ To configure Sublime Text to use the theme:
 * ... or for the Dark version set it to `"theme": "Sea Lion Dark.sublime-theme"`
 
 ![](https://raw.githubusercontent.com/braver/theme-sea-lion/master/screenshot.png)
+
+
+## File-type icons
+
+[A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) is pretty awesome. For a good monochrome match with Sea Lion, put this in the package's user settings:
+
+
+```json
+{
+  "color": "#B6B6B6",
+  "color_on_hover": "#828282",
+  "color_on_select": "#777777",
+  "opacity": 1.0,
+  "opacity_on_hover": 1.0,
+  "opacity_on_select": 1.0,
+}
+```
