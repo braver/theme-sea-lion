@@ -1,5 +1,25 @@
 [
     {
+        "class": "tab_label",
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11.5
+    },
+    {
+        "class": "sidebar_label",
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
+    },
+    {
+        "class": "label_control",
+        "font.face": ".SFNSText-Regular"
+    },
+    {
+        "class": "tool_tip_label_control",
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
+    },
+
+    {
         "class": "tabset_control",
         "layer0.opacity": 1,
         "layer1.opacity": 0.6,
@@ -43,7 +63,7 @@
         "class": "tab_control",
         "max_margin_trim": 4,
         "hit_test_level": 0,
-        "content_margin": [12, 3, 12, 3],
+        "content_margin": [12, 2, 12, 3],
 
         "tint_index": 1,
 
@@ -62,13 +82,13 @@
     {
         "class": "tab_control",
         "settings": ["show_tab_close_buttons"],
-        "content_margin": [12, 3, 7, 3]
+        "content_margin": [12, 2, 7, 3]
     },
     {
         "class": "tab_control",
         "settings": ["!show_tab_close_buttons"],
         "attributes": ["dirty"],
-        "content_margin": [12, 3, 7, 3]
+        "content_margin": [12, 2, 7, 3]
     },
     {
         "class": "tab_control",
@@ -542,6 +562,7 @@
         "class": "label_control",
         "parents": [{"class": "status_bar"}],
         "color": [120, 120, 120, 255],
+        "font.size": 11
     },
     {
         "class": "sidebar_container",
@@ -574,7 +595,9 @@
     {
         "class": "sidebar_heading",
         "color": [119, 119, 119],
+        "font.face": ".SFNSText-Regular",
         "font.bold": true,
+        "font.size": 11
     },
     {
         "class": "sidebar_heading",
@@ -596,7 +619,7 @@
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "color": [79, 79, 79],
-        "font.bold": true,
+        "font.bold": false,
         "font.italic": false
     },
     {
@@ -607,15 +630,15 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
-        "color": [130, 130, 130],
-        "font.bold": true,
+        "color": [79, 79, 79],
+        "font.bold": false,
         "font.italic": false
     },
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["expandable", "hover"]}],
         "color": [79, 79, 79],
-        "font.bold": true,
+        "font.bold": false,
         "font.italic": false
     },
     {
