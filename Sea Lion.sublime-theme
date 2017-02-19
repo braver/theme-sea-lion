@@ -926,20 +926,20 @@
     },
     {
         "class": "panel_close_button",
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/panel-close.png",
-        "layer0.opacity": 0.85,
-        "content_margin": [8, 12]
+        "layer0.texture": "Theme - Sea Lion/Sea Lion/file-close.png",
+        "layer0.opacity": 1,
+        "content_margin": [8, 8]
     },
     {
         "class": "panel_close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/panel-close-hover.png",
+        "layer0.texture": "Theme - Sea Lion/Sea Lion/file-close-pressed.png",
         "layer0.opacity": 1.0
     },
     {
         "class": "panel_close_button",
         "attributes": ["pressed"],
-        "layer0.texture": "Theme - Sea Lion/Sea Lion/panel-close-hover.png",
+        "layer0.texture": "Theme - Sea Lion/Sea Lion/file-close-pressed.png",
         "layer0.opacity": 0.8
     },
     {
