@@ -1,25 +1,5 @@
 [
     {
-        "class": "tab_label",
-        "font.face": ".SFNSText-Regular",
-        "font.size": 11.5
-    },
-    {
-        "class": "sidebar_label",
-        "font.face": ".SFNSText-Regular",
-        "font.size": 11
-    },
-    {
-        "class": "label_control",
-        "font.face": ".SFNSText-Regular"
-    },
-    {
-        "class": "tool_tip_label_control",
-        "font.face": ".SFNSText-Regular",
-        "font.size": 11
-    },
-
-    {
         "class": "tabset_control",
         "layer0.opacity": 1,
         "layer1.opacity": 0.6,
@@ -212,7 +192,9 @@
     {
         "class": "tab_label",
         "fg": [119, 119, 119, 255],
-        "font.italic": false
+        "font.italic": false,
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11.5
     },
     {
         "class": "tab_label",
@@ -502,7 +484,9 @@
     },
     {
         "class": "label_control",
-        "color": [182, 182, 182]
+        "color": [182, 182, 182],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "label_control",
@@ -540,7 +524,9 @@
     },
     {
         "class": "tool_tip_label_control",
-        "color": [0, 0, 0, 255]
+        "color": [0, 0, 0, 255],
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "status_bar",
@@ -561,8 +547,7 @@
     {
         "class": "label_control",
         "parents": [{"class": "status_bar"}],
-        "color": [120, 120, 120, 255],
-        "font.size": 11
+        "color": [120, 120, 120, 255]
     },
     {
         "class": "sidebar_container",
@@ -608,7 +593,9 @@
         "class": "sidebar_label",
         "color": [119, 119, 119],
         "font.bold": false,
-        "font.italic": false
+        "font.italic": false,
+        "font.face": ".SFNSText-Regular",
+        "font.size": 11
     },
     {
         "class": "sidebar_label",
