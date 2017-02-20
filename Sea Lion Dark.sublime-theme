@@ -180,14 +180,14 @@
         "settings": ["show_tab_close_buttons"],
         "attributes": ["hover"],
         "layer0.opacity": 1.0,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion Dark/file-close.png"
+        "layer0.texture": "Theme - Sea Lion/Sea Lion Dark/file-close-pressed.png"
     },
     {
         "class": "tab_close_button",
         "settings": ["show_tab_close_buttons"],
         "attributes": ["pressed"],
         "layer0.opacity": 0.8,
-        "layer0.texture": "Theme - Sea Lion/Sea Lion Dark/file-close.png"
+        "layer0.texture": "Theme - Sea Lion/Sea Lion Dark/file-close-pressed.png"
     },
     {
         "class": "tab_label",
