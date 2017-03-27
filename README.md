@@ -18,11 +18,16 @@ To configure Sublime Text to use the theme:
 
 ```json
 {
-  "color": "#B6B6B6",
-  "color_on_hover": "#828282",
-  "color_on_select": "#777777",
   "opacity": 1.0,
   "opacity_on_hover": 1.0,
   "opacity_on_select": 1.0,
+  // light
+  "color": "#B6B6B6",
+  "color_on_hover": "#777777",
+  "color_on_select": "#181818",
+  // dark
+  "color": "#777777",
+  "color_on_hover": "#828282",
+  "color_on_select": "#FAFAFA"
 }
 ```

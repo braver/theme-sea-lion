@@ -605,7 +605,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [193, 193, 193],
+        "color": [250, 250, 250],
         "font.bold": false,
         "font.italic": false
     },
