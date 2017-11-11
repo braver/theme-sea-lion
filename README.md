@@ -1,5 +1,7 @@
 # Sea Lion Theme
 
+## ** -- No Longer Maintained -- **
+
 A macOS inspired theme for Sublime Text 3.
 
 To configure Sublime Text to use the theme:
